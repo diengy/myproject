@@ -1,0 +1,95 @@
+		
+		#top{
+			width: 100%;
+			height: 5%;
+			background-color: Black;
+			margin-top: -1.5%;
+		}
+		#body{
+			background-color: goldenrod;
+		}
+		
+		#menu{
+			width: 100%;
+			height: 20%;
+			background-color: black;
+			margin-left: 0%;
+		}
+		
+		#images{
+			background-color: GhostWhite;
+			margin-top: 15%;
+		}
+		#khung_comment{
+			background-color: Gainsboro;
+			margin-top: -3%;
+		}
+
+		p {
+			font-size: 16px;
+			font-family: Monospace;
+			color: white;
+		}
+
+		.thick-green-border {
+			border-color: DimGray;
+			border-width: 5px;
+			border-style: solid;
+			border-radius: 70%;
+		}
+		.thick-green-border1 {
+			border-color: goldenrod;
+			border-width: 5%;
+			border-style: solid;
+			
+		}
+		.thick-green-border2 {
+			border-color: black;
+			border-width: 5px;
+			border-radius: 0%;
+			width: 100%;
+			border-style: none;
+		}
+
+		.smaller-image {
+			width: 50px;
+		}
+		a:link {
+			color: goldenrod;
+			text-decoration: none;
+		}
+		a:visit{
+			color: red;
+			text-decoration: none;
+		}
+		a:hover{
+			color: red;
+			text-decoration: none;
+		}
+		a:active{
+			color: red;
+		}
+		#bacground_footer{
+			background-color: Black;
+			width: 100%;
+			height:30%;
+			padding-left:5%;
+			margin-left: 0%;
+			margin-top: 5%;
+		}
+		
+		
+		h2{
+			     
+			padding-top: 0%;
+			font-family: Lobster, Ravie;
+			color: white;    
+		}
+		.item{
+			background: none;    
+			text-align: center;
+			height: 500px !important;
+		}
+		.carousel{
+			margin-top: 0%;
+		}
